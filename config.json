@@ -1,0 +1,7 @@
+{
+    "secretId": "secretId",
+    "secretKey": "secretKey",
+    "region": "region",
+    "bucket": "bucket",
+    "folder": "folder/"
+}
